@@ -1,0 +1,11 @@
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Api.exe
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Api.dll
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Api.pdb
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\vijay Learning Project\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
